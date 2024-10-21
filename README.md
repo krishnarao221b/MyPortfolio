@@ -37,7 +37,7 @@ I am currently working as a Software Engineer at EG, where I develop solutions t
 Feel free to reach out to me for collaborations, inquiries, or just to connect!
 
 - **Email:** krishnarao221b@gmail.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- **GitHub:** [github.com/yourusername](#)
+- **LinkedIn:** [https://www.linkedin.com/in/krishna-rao-267ba6205/](#)
+- **GitHub:** [https://github.com/krishnarao221b](#)
 
 Thank you for visiting my portfolio!
